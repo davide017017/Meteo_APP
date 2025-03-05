@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+:root {
+  --background: #949494;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #a3a3a3;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.radial-gradient-clouds {
+  background-image: radial-gradient(circle, rgba(200, 200, 200, 0.5), transparent 95%);
+}
+
+.radial-gradient-rain {
+  background-image: radial-gradient(circle, rgba(100, 150, 200, 0.5), transparent 95%);
+}
+
+.radial-gradient-snow {
+  background-image: radial-gradient(circle, rgba(220, 220, 220, 0.5), transparent 95%);
+}
+
+.radial-gradient-thunderstorm {
+  background-image: radial-gradient(circle, rgba(250, 250, 100, 0.5), transparent 95%);
+}
+
+.radial-gradient-clear {
+  background-image: radial-gradient(circle, rgba(255, 255, 150, 0.5), transparent 95%);
+}
+
+.radial-gradient-default {
+  background-image: radial-gradient(circle, rgba(200, 200, 200, 0.3), transparent 95%);
+}

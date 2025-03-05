@@ -1,0 +1,21 @@
+# File di log
+*.log
+
+# File temporanei
+*.tmp
+*.swp
+*.swo
+
+# Cartella vendor (se usi Composer)
+vendor/
+
+# File di configurazione sensibili (se presenti)
+.env
+config.php # o altri file di configurazione
+
+# File specifici dell'IDE (se necessario)
+.idea/
+.vscode/
+
+# Altri file specifici del backend
+# Aggiungi qui eventuali altri file o cartelle che vuoi ignorare

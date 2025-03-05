@@ -1,0 +1,19 @@
+# PHP
+vendor/ # Se usi Composer per il backend
+*.log
+.env 
+*.swp
+*.swo
+.DS_Store
+
+# Docker
+docker-compose.yml
+Dockerfile 
+
+# Altri file
+NOTE.txt
+package-lock.json # Il package-lock.json nella radice del progetto
+
+# IDE specifici (se necessario)
+.idea/
+.vscode/
