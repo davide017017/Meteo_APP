@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Made with React](https://img.shields.io/badge/Made%20with-React-blue.svg)](https://reactjs.org/)
 [![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js-blue.svg)](https://nextjs.org/)
 [![TypeScript Ready](https://img.shields.io/badge/TypeScript-Ready-blueviolet.svg)](https://www.typescriptlang.org/)
 [![Styled with Tailwind CSS](https://img.shields.io/badge/Styled%20with-Tailwind_CSS-teal.svg)](https://tailwindcss.com/)
