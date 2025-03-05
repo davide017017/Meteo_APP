@@ -69,6 +69,6 @@ Questo progetto è distribuito sotto la [Licenza MIT](LICENSE).
 
 ## ‍ Autore
 
-[davide017017 - Davide Martinco] - [[Link al tuo profilo GitHub o Portfolio (opzionale)](https://github.com/davide017017)]
+[davide017017 - Davide Martinco] - [[Link al tuo profilo GitHub o Portfolio ](https://github.com/davide017017)]
 
 **Realizzato con ❤️ e codice da davide017017**
