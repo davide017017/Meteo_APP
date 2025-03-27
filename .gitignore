@@ -6,13 +6,9 @@ vendor/ # Se usi Composer per il backend
 *.swo
 .DS_Store
 
-# Docker
-docker-compose.yml
-Dockerfile 
-
 # Altri file
 NOTE.txt
-package-lock.json # Il package-lock.json nella radice del progetto
+package-lock.json 
 
 # IDE specifici (se necessario)
 .idea/
